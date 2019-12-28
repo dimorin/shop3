@@ -1,4 +1,6 @@
 # shop3
+fashe 쇼핑몰 템플릿을 vue.js에 입히기
+[https://shop3dimorin.firebaseapp.com/](https://shop3dimorin.firebaseapp.com/)
 
 ## Project setup
 ```
